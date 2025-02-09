@@ -4,7 +4,7 @@ import { Typewriter } from "react-simple-typewriter";
 const Header = () => {
   return (
     <>
-      <header className="bg-[url('./src/assets/img/main-bg.jpg')] bg-cover bg-center h-[80vh] bg-fixed relative">
+      <header className=" h-[80vh] bg-fixed relative">
         <Navbar />
         <div className="text-area  w-[55%]   text-center  absolute   top-56 left-0 right-0 bottom-0 mx-auto ">
           <h2 className="text-4xl text_red  font-thin">- Welcome To -</h2>

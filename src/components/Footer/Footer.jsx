@@ -12,7 +12,7 @@ import { Link } from "react-router-dom";
 const Footer = () => {
   return (
     <>
-      <footer className="w-full h-fit mt-8 z-10 bg-[url('./src/assets/img/02.jpg')] bg-cover bg-center ">
+      <footer className="w-full h-fit mt-8 z-10  ">
         <div className="container ">
           <div className="top px-2 border-b border-gray-600  flex justify-between items-center pt-5">
             <div className="">

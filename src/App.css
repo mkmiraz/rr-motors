@@ -132,10 +132,20 @@
   transition: 0.75s;
 }
 
+header {
+  position: relative;
+  background-image: url("../src/assets/img/main-bg.jpg");
+  background-position: center;
+  background-size: cover;
+}
+
 /* footer */
 
 footer {
   position: relative;
+  background-image: url("../src/assets/img/02.jpg");
+  background-position: center;
+  background-size: cover;
 }
 footer::after {
   position: absolute;
